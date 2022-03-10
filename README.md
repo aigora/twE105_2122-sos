@@ -1,6 +1,6 @@
-# [Título del trabajo]
+# [El encuentratodo]
 
--El oráculo, un programa que permita mediante predicciones adivinar lo que el usuario busca acerca de un tema.
+-El encuentratodo, un oráculo que consiste en un programa que permita mediante predicciones adivinar lo que el usuario busca acerca del tema:(archivos csv que busquemos).
 
 ## Integrantes del equipo
 
