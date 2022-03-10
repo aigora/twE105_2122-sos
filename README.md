@@ -1,11 +1,14 @@
 # [Título del trabajo]
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+-El oráculo, un programa que permita mediante predicciones adivinar lo que el usuario busca acerca de un tema.
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+-Claudia García @claudiagarciab
+-Miriam Hidalgo @miriamhidalgo
+-Paula Pavón @paulapavoncalzado
+-Rodrigo Martín @rmestrada
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+El objetivo principal del trabajo es que el programa consiga adivinar lo que el usuario busca en el menor numero de predicciones para asi agilizar el trabajo.
