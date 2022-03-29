@@ -3,7 +3,7 @@
 int main()
 {
     char t,d,h,eleccion;
-
+do{
     printf("Bienvenido al encuentratodo, ¿que desea utilizar?\n");
     printf("Si desea entrar en los datos pulse d\n");
     printf("Si desea entrar en las tablas estadisticas pulse t\n");
@@ -24,7 +24,7 @@ case'h':
     break;
     default:
     printf("Por favor, seleccione una de las letras indicadas");
-    }
+    }}while(eleccion!='h'&&eleccion!='t'&&eleccion!='d');
 
     return 0;
 }
