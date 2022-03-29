@@ -11,4 +11,4 @@
 
 ## Objetivos del trabajo
 
-El objetivo principal del trabajo es que el programa consiga adivinar lo que el usuario busca en el menor numero de predicciones para asi agilizar el trabajo.
+El objetivo principal del trabajo es que el programa consiga adivinar lo que el usuario busca en el menor numero de predicciones para asi agilizar el trabajo además realizar gráficas estadísticas en base a lo que el usuario busque.
